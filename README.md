@@ -4,7 +4,7 @@ Welcome to **Many-banana** – your one-stop AI-powered productivity playground!
 
 Unlock the power of advanced AI tools right from your browser:
 
-- 🤖 **AI Chatbot** – Real-time smart conversations.
+- 🤖 **AI Chatbot** - Real-time smart conversations.
 - ✨ **Text Summarization** – TL;DR of any content in seconds.
 - 📖 **Story Generator** – Instantly create unique stories.
 - 🙂 **Sentiment Analysis** – Gauge emotion from text.
