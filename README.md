@@ -55,7 +55,7 @@ signup.php         # Signup page
    - Start your web server and Python backend.
    - Open `http://localhost/Many-banana`.
 
----
+---_
 
 ## 🙌 Contribute & Collaborate
 
